@@ -1,0 +1,17 @@
+{
+    "name": "singh/soutenance",
+    "require": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "autoload" : {
+        "psr-4" : {
+          "" : "src/"
+        }
+      },
+    "authors": [
+        {
+            "name": "gurnav",
+            "email": "singh.g@outlook.fr"
+        }
+    ]
+}
